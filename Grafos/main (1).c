@@ -3,7 +3,7 @@
 
 int main() {
     // Nome do arquivo (na mesma pasta do programa)
- const char* nome_arquivo = "C:\\Users\\Camilly Perfeita\\Desktop\\estrutura_de_dados\\pcv4.txt";
+ const char* nome_arquivo = "C:\\Users\\Camilly Perfeita\\Desktop\\estrutura-de-dados-1\\Grafos\\pcv4.txt";
 
     
     // Abrir o arquivo para leitura
